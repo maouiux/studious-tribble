@@ -1,7 +1,15 @@
 body {
-  margin: 0;,
+  margin: 0;
   background: pink;
-  text-align: center
-  
+  text-align: center;
+
 }
 
+h1 {
+  font-style: italic;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+  font-style: italic;
+}
